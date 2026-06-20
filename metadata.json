@@ -1,0 +1,6 @@
+{
+  "name": "AgentHire AI",
+  "description": "Multi-Agent Interview Intelligence, Computer Vision & Generative AI Assessment Platform",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
